@@ -12,6 +12,26 @@ improving resource management, and fostering sustainability in public systems.
 
 <br>
 
+## 🛠️ Project Structure
+```text
+An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA/                                             
+  ├── LICENSE                                                                                                
+  ├── README.md                                              
+    An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA/Ethics Approval Application
+      ├── Consent Form.pdf                                    
+      ├── Cover Letter to Participants.pdf                        
+      ├── Ethics Approval Form - Parkinson et al.pdf
+      ├── Questionnaire Questions.pdf                                 
+    An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA/Final Documentation & Animation Video
+      ├── Animated_Vid_IOT.mov
+      ├── Major Prjct Final MP18.pdf
+      ├── Major Prjct Presentation MP18.pdf
+    An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA/IOT Garbage Collection SImulation Code
+      ├── SmrtDustbin_Code.cpp                    
+```
+
+<br>
+
 ## ✅ Contributors' Assignments Breakdown
 
 | Name           | Deliverables                                                                                                                                         | Status |
